@@ -1,0 +1,12 @@
+Line Tracking Proximity Sensor: Developed using C
+I successfully designed and implemented a line tracking proximity sensor utilizing the power of C programming language. The main objective of this project was to develop a robust system that can accurately follow a predetermined path by utilizing infrared (IR) sensors. Throughout the project, I meticulously calibrated the sensors, devised efficient control algorithms, and optimized motor controls. This undertaking effectively showcased my expertise in seamlessly integrating hardware components and crafting highly efficient embedded software for precise line tracking.
+
+
+Audio Visualization: Developed using MATLAB
+By harnessing the capabilities of MATLAB, I embarked on a project that involved creating captivating visual representations of audio signals. Through the meticulous processing of audio data and the application of Fast Fourier Transform (FFT), I successfully generated visually stunning spectrograms, waveform plots, and frequency spectra. This project served as a testament to my proficiency in signal processing and data visualization, highlighting my adeptness in utilizing MATLAB for analytical tasks.
+
+Analyzing Customer Purchase Behavior: Conducted using Python
+In this project, I utilized Python to analyze a dataset of customer purchase behavior in order to uncover valuable insights and patterns. By leveraging powerful Python libraries such as pandas, NumPy, and matplotlib, I performed exploratory data analysis, visualized the data, and conducted statistical analysis. Through this project, I demonstrated my proficiency in handling real-world datasets and extracting actionable information using Python.
+
+Python Implementation for Predicting Heart Disease:
+Utilizing Python, I have successfully created a predictive model that can accurately determine the presence or absence of heart disease. This project involved various machine learning techniques, including data preprocessing, feature engineering, and model training using scikit-learn algorithms. To ensure the model's effectiveness, I evaluated its performance using metrics such as accuracy and ROC-AUC, ultimately selecting the most optimal model. Through this project, I have demonstrated my proficiency in machine learning and my capability to apply it to health data, resulting in valuable predictions.
